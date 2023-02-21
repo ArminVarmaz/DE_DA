@@ -11,7 +11,7 @@ Dieser Kurs bietet eine Einführung in die Datenanalyse für Dateningenieure. Di
 ## Ziele des Kurses:
 
 - Einführung in Python
-- Entwicklung eines Verständnisses der Datenanalyse und ihrer Bedeutung für die Datentechnik
+- Entwicklung eines Verständnisses der Datenanalyse und ihrer Bedeutung
 - Lernen, wie man Daten für die Analyse sammelt, verarbeitet und bereinigt
 - Entwicklung von Fähigkeiten in der explorativen Datenanalyse und Datenvisualisierung
 - Verstehen der Grundlagen der statistischen Inferenz und der Hypothesentests
