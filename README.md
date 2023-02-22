@@ -1,6 +1,7 @@
 # DE_DA
-Data Engineering: Grundlagen der Datenanalyse
-Ein Kurs an der Professional School der Hochschule Bremen
+[Data Engineering: Grundlagen der Datenanalyse](https://www.hs-bremen.de/weiterbilden/kurs/data-engineering-angewandte-datenanalyse/)
+
+Ein Kurs an der [Professional School](https://www.hs-bremen.de/graduate-professional-school/) der [Hochschule Bremen](https://www.hs-bremen.de)
 
 
 ## Kursbeschreibung
