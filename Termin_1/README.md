@@ -1,3 +1,3 @@
 # Termin 1
 
-Dieser Unterordner beinhaltet eine Kopie von Colab-Files, mit dem am ersten Termin im Kurs gearbeitet wurde.
+Dieser Unterordner beinhaltet eine Kopie von Colab-Files, mit dem am ersten [Termin](Termin_1/Termin_1_20230224.ipynb) im Kurs gearbeitet wurde.
