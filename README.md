@@ -1,12 +1,12 @@
 # DE_DA
-[Data Engineering: Grundlagen der Datenanalyse](https://www.hs-bremen.de/weiterbilden/kurs/data-engineering-angewandte-datenanalyse/)
+[Data Engineering: Grundlagen der Datenanalyse](https://www.hs-bremen.de/weiterbilden/kurs/data-science-datenanalyse/)
 
 Ein Kurs an der [Professional School](https://www.hs-bremen.de/graduate-professional-school/) der [Hochschule Bremen](https://www.hs-bremen.de)
 
 
 ## Kursbeschreibung
 
-Dieser Kurs bietet eine Einführung in die Datenanalyse für Dateningenieure. Die Teilnehmer lernen, wie man Daten mit verschiedenen Tools und Techniken erfasst, verarbeitet und analysiert. Zu den behandelten Themen gehören Datenbereinigung, explorative Datenanalyse, Visualisierung und statistische Inferenz.
+Dieser Kurs bietet eine Einführung in die Datenanalyse. Die Teilnehmenden lernen, wie man Daten mit verschiedenen Tools und Techniken erfasst, verarbeitet und analysiert. Zu den behandelten Themen gehören Datenbereinigung, explorative Datenanalyse, Visualisierung und statistische Inferenz.
 
 
 ## Ziele des Kurses:
@@ -21,7 +21,7 @@ Dieser Kurs bietet eine Einführung in die Datenanalyse für Dateningenieure. Di
 
 ## Voraussetzungen
 
-- Vertrautheit mit Datenbanken und SQL
+- Vertrautheit mit Daten, ggf. mit Datenbanken und SQL
 - Grundverständnis von Programmierung (z.B. Nutzung von WENN-Funktion von Excel)
 - Verstehen von Datenstrukturen und Algorithmen
 
@@ -29,7 +29,7 @@ Dieser Kurs bietet eine Einführung in die Datenanalyse für Dateningenieure. Di
 
 - Einführung in Python
 - Einführung in die Datenanalyse
-- Überblick über die Datenanalyse und ihre Bedeutung im Data Engineering
+- Überblick über die Datenanalyse und ihre Bedeutung für Data Engineering und Data Science
 - Verschiedene Datentypen und ihre Eigenschaften
 - Datenerfassung und -bereinigung
 - Techniken zur Datenerfassung und -bereinigung
